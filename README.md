@@ -10,11 +10,11 @@ If you'd like to develop and/or build the phys-mod book, you should:
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `phys_mod/` directory
-4. Run `jupyter-book clean phys_mod/` to remove any existing builds
-5. Run `jupyter-book build phys_mod/`
+3. (Optional) Edit the books source files located in the `phys-mod/` directory
+4. Run `jupyter-book clean phys-mod/` to remove any existing builds
+5. Run `jupyter-book build phys-mod/`
 
-A fully-rendered HTML version of the book will be built in `phys_mod/_build/html/`.
+A fully-rendered HTML version of the book will be built in `phys-mod/_build/html/`.
 
 ### Hosting the book
 
